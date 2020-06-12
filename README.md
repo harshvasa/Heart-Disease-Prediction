@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction
+ Using Machine Learning algorithms like Linear Regression, SVM, KNN, Naive Bayes & Random Forest presence of a potential cardiac disease in a person w.r.t. factors like age, heart rate, ST depression level, serum cholestrol, fbs. etc. is predicted using integer value from 0 (no presence) to 4. Delivering test accuracy of 85% using Linear Regression, Naive Bayes Classifier & Random Forest algorithms.
